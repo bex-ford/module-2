@@ -1,15 +1,98 @@
 * {
   box-sizing: border-box;
+  padding: 0;
+  margin;
 }
 
 body {
+  background-color: #0a192f;
   margin: 0;
   padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 'Monaco';
   line-height: 1.5;
 }
 
-h1,
+.header {
+  padding: 50px;
+  padding-bottom: 0;
+  font-family: 'Monaco';
+  font-size: 100px;
+  background-color: #0a192f;
+  color: #8892b0;
+}
+
+.header h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-left: 500px;
+  padding-top: 0;
+  padding-bottom: 0;
+  display: inline-block;
+  font-size: 100px;
+}
+
+.header nav {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 5px;
+  margin-right: 20px;
+  float: right;
+  font-size: 20px;
+  color: #64ffda;
+}
+
+.header nav ul { 
+  list-style-type: none;
+}
+
+.header nav ul li { 
+  display: inline-block;
+  margin-left: 25px;
+}
+
+.hero-banner {
+  padding-left: 550px;
+  padding-top: 0;
+  padding-bottom: 100px;
+  background-color: #0a192f;
+  color: #64ffda;
+  font-size: 30px;
+}
+div {
+  background-color: #0a192f;
+}
+
+a {
+  color: #8892b0;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #64ffda;
+  list-style-type: none;
+  display: inline-block;
+}
+
+p {
+  font-size: 16px;
+}
+
+.page-wrapper {
+  padding-left: 50px;
+
+}
+
+.me {
+  color:#64ffda;
+}
+
+.page-section {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #8892b0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+.content {
+
+}
 h2,
 h3,
 h4,
