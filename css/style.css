@@ -37,10 +37,9 @@ html {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding-top: 5px;
   margin-right: 20px;
-  /* float: right; */
   font-size: 20px;
   color: #64ffda;
-  
+
 }
 
 .header nav ul li { 
@@ -48,13 +47,58 @@ html {
   margin-left: 25px;
 }
 
-.hero-banner {
+.hero-banner h2 {
   display: flex;
   justify-content: flex-end;
   margin: 60px;
+  margin-bottom: 20px;
   background-color: #0a192f;
   color: #64ffda;
-  font-size: 20px;
+  font-size: 30px;
+  float: right;
+}
+
+.hero-banner img{
+  display: flex;
+  justify-content: flex-end;
+  margin: 60px;
+  margin-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin: 20px auto;
+  margin-bottom: 20px;
+  max-width: 270px;
+  float: left;
+ 
+}
+
+.page-section {
+  text-align: center;
+  border-bottom: 2px solid #8892b0;
+  width 500px;
+  margin: 50px auto;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 5px;
+  cursor: pointer;
+  display:grid;
+  align-content: center; 
+
+}
+
+#work img {
+  margin: 0px 5%;
+  padding: 10px;
+  display: grid;
+  grid-template-rows: 500px 500px 500px;
+  grid-template-columns: 10fr 1fr 1fr;
+  grid-template-areas:
+  "horiseon horiseon horiseon"
+  "hero portfolio1 portfolio2"  
+  "portfolio1 portfolio2 portfolio3"
+  "hero hero hero"
+  ;
 }
 
 div {
@@ -94,16 +138,12 @@ p {
 .page-wrapper img {
   display: inline-block;
   padding-right: 20px;
-  margin: 20px auto;
+  margin: 20px auto; 
   max-width: 170px;
-  float: left;
-    
-}
-
-.page-wrapper p {
-  margin-bottom: 20px;
-  font-size: 20px;
-
+  display: grid;
+  grid-template-columns: ;
+  grid-template-rows: 100px 300px;
+  
 }
 
 .page-section  {
