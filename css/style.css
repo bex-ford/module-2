@@ -80,11 +80,10 @@ html {
 
 }
 
-#heroGrid {
+.heroGrid {
   display: flex;
-  height: 60vh;
-  grid-template-rows: 75% 25%%;
-  grid-template-columns: 75% 25%;
+  grid-template-rows: 10fr 100fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-template-areas:
   "hero portfolio1"
   "hero portfolio2"
