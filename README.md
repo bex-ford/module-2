@@ -32,7 +32,7 @@ The image shown below are links to my Github page and the landing page of my pro
 
 - I made sure that by adding media query to the css so that when the page is resized or viewed on various screens snd devices then the layout is respoonsive and adapts to the viewport. 
 
-- What i learned from completing this project was how to to link correctly. I need to progress alot on using images and grid layout as it is not exactly how i need it to be.  
+- What i learned from completing this project was how to to link correctly and set up images using css grid.  
 
 - What makes my project stand out is that it is simple but effective. I believe the colour contrast is very good and makes it easy for the user to see correctly. I have followed the instructions given for this project to the best of my current ability. The functionality of the page works very well when i have tested it.
 
