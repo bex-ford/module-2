@@ -26,11 +26,11 @@ The image shown below are to my LinkedIn page. When clicking this link it will o
 
 ![LinkedIn Link](./assets/linkedinlink.png)
 
-The image shown below are links to my Github page and the landing page of my project.
+The image shown below is a link to my Github page and the landing page of my project that i created in module 1.
 
 ![Links to github and website](./assets/linkswebsitegithub.png)
 
-- I made sure that by adding media query to the css so that when the page is resized or viewed on various screens snd devices then the layout is respoonsive and adapts to the viewport. 
+- I made sure that by adding media query to the css so that when the page is resized or viewed on various screens and devices then the layout is respoonsive and adapts to the viewport. 
 
 - What i learned from completing this project was how to to link correctly and set up images using css grid.  
 
